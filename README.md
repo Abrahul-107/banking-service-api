@@ -33,5 +33,5 @@ Make sure you have the following installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/banking-rest-api.git
+git clone https://github.com/Abrahul-107/banking-service-api.git
 cd banking-rest-api
